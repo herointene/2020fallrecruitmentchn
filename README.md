@@ -10,4 +10,4 @@ crwaling of a recruitment website, for study use only.
 
 *仅供学习使用*
 
-**7/30 更新: 更新py文件,双击输入最大页数直接下载.**
+**7/30 更新: 更新py文件,输入最大页数之後便可直接下载.**
